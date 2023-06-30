@@ -1,8 +1,8 @@
 # Create-and-Mint-Token
-A new token is created on the local HardHat network
-Only contract owner should be able to mint tokens
-Any user can transfer tokens
-Any user can burn tokens
+1.A new token is created on the local HardHat network
+2.Only contract owner should be able to mint tokens
+3.Any user can transfer tokens
+4.Any user can burn tokens
 ## MyToken
 
 MyToken is an ERC20 token contract created on the local HardHat network.
