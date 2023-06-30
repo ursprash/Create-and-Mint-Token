@@ -1,8 +1,9 @@
 # Create-and-Mint-Token
-1.A new token is created on the local HardHat network
-2.Only contract owner should be able to mint tokens
-3.Any user can transfer tokens
-4.Any user can burn tokens
+1. A new token is created on the local HardHat network
+2. Only contract owner should be able to mint tokens
+3. Any user can transfer tokens
+4. Any user can burn tokens
+   
 ## MyToken
 
 MyToken is an ERC20 token contract created on the local HardHat network.
@@ -11,14 +12,6 @@ MyToken is an ERC20 token contract created on the local HardHat network.
 
 This contract allows the contract owner to mint tokens and users to transfer and burn tokens.
 
-## Deployment
-
-To deploy the contract on the HardHat network, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies using `npm install`.
-3. Configure the deployment settings in the `hardhat.config.js` file.
-4. Run `npx hardhat run scripts/deploy.js --network <network_name>` to deploy the contract to the specified network.
 
 ## Functionality
 
